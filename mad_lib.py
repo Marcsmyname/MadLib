@@ -1,0 +1,11 @@
+print("Hi. This is some lame compuer program Marc wrote.")
+name = input("What's your name? ")
+print("Nice to meet you {}. We are going to play Mad Libs.".format(name))
+answer = input("Are you ready {}?".format(name))
+ryhmes_with_nantucket = input("What's a word that rhymes with Nantucket?)")
+noun_1 = input("Give me a noun")
+adjective_1 = input("I need an adjective.")
+prounon_1 = input("Let's have a pronoun")
+noun_2 = input("Another noun.")
+print("A man stubbed his toe and yelled {}! {} had a {}{} in his pocket".format(ryhmes_with_nantucket, prounon_1, adjective_1,noun_2 ))
+
